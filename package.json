@@ -1,0 +1,13 @@
+{
+  "name": "botApplication",
+  "version": "1.0.0",
+  "description": "creating a bot application using npm and node js",
+  "author": "Michael Teshome",
+  "entry point": "bot.js",
+  "test command": "",
+  "git repository": "none",
+  "keywords": "npm app",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
